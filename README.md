@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Daviieeee
-- 👀 I’m interested in Devops and Python 
-- 🌱 I’m currently learning Javascript, python and html
+- 👋 Hi, My name is David Wachira.
+- 👀 I’m interested in Software development, Python and Machine Learning.
+- 🌱 I’m currently learning Javascript, python and Java.
 - 💞️ I’m looking to collaborate on idk yet. I just started
 - 📫 How to reach me: email davidwachira081@gmail.com 
 - 😄 Pronouns: he/him
